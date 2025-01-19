@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dewald Breed</h1>
 <h3 align="center">A passionate full-stack developer from South Africa</h3>
 
-- 🔭 I’m currently working on [a Terminal Emulator](https://dewaldbreed.co.za)
+- 🔭 I’m currently working on [a Terminal Emulator](https://terminal.dewaldbreed.co.za)
 
-- 🌱 I’m currently learning **JS/TS, Java, C#**
+- 🌱 I’m currently learning **Angular & Java Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arc4d3-G](https://github.com/Arc4d3-G)
 
